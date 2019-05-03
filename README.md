@@ -1,7 +1,7 @@
 # Adobe-InDesing-Resume
+
 Adobe In Design resume
 
+## Sample Output
 
-
-# Sample Output 
-![pramod mali](https://user-images.githubusercontent.com/13375870/46648877-8cb4a180-cbb4-11e8-9f20-5933cf179c53.png)
+![Pramod Mali](https://user-images.githubusercontent.com/13375870/57119585-01397280-6d89-11e9-89b8-66ec985b28f9.png)
